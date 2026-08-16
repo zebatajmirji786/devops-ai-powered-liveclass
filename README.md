@@ -1,6 +1,6 @@
 # DevOps - Zero TO Hero [AI Poweered]
 
-check it out here here: https//
+check it out here [here](https//Trainwithshubham.ai)
 
 ## Topics
 
